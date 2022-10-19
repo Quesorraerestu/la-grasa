@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pac.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pacman down0000" x="0" y="0" width="380" height="426" frameX="0" frameY="-10" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0001" x="0" y="0" width="380" height="426" frameX="0" frameY="-10" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0002" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0003" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0004" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0005" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0006" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0007" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0008" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0009" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0010" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0011" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0012" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman down0013" x="380" y="0" width="376" height="427" frameX="-5" frameY="0" frameWidth="381" frameHeight="436"/>
+	<SubTexture name="pacman idle0000" x="756" y="0" width="473" height="454" frameX="-4" frameY="-1" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0001" x="756" y="0" width="473" height="454" frameX="-4" frameY="-1" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0002" x="1229" y="0" width="449" height="429" frameX="0" frameY="-19" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0003" x="1229" y="0" width="449" height="429" frameX="0" frameY="-19" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0004" x="0" y="454" width="440" height="449" frameX="-2" frameY="-3" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0005" x="0" y="454" width="440" height="449" frameX="-2" frameY="-3" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0006" x="440" y="454" width="439" height="452" frameX="-6" frameY="0" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0007" x="440" y="454" width="439" height="452" frameX="-6" frameY="0" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0008" x="879" y="454" width="443" height="452" frameX="-7" frameY="0" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman idle0009" x="879" y="454" width="443" height="452" frameX="-7" frameY="0" frameWidth="477" frameHeight="455"/>
+	<SubTexture name="pacman left0000" x="1322" y="454" width="370" height="439" frameX="-1" frameY="-11" frameWidth="384" frameHeight="451"/>
+	<SubTexture name="pacman left0001" x="1322" y="454" width="370" height="439" frameX="-1" frameY="-11" frameWidth="384" frameHeight="451"/>
+	<SubTexture name="pacman left0002" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0003" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0004" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0005" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0006" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0007" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0008" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0009" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0010" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0011" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0012" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman left0013" x="0" y="906" width="384" height="451"/>
+	<SubTexture name="pacman right0000" x="384" y="906" width="555" height="441" frameX="-9" frameY="-3" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0001" x="384" y="906" width="555" height="441" frameX="-9" frameY="-3" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0002" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0003" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0004" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0005" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0006" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0007" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0008" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0009" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0010" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0011" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0012" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman right0013" x="939" y="906" width="528" height="447" frameX="0" frameY="0" frameWidth="564" frameHeight="447"/>
+	<SubTexture name="pacman up0000" x="1467" y="906" width="397" height="457" frameX="-8" frameY="0" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0001" x="1467" y="906" width="397" height="457" frameX="-8" frameY="0" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0002" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0003" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0004" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0005" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0006" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0007" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0008" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0009" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0010" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0011" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0012" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+	<SubTexture name="pacman up0013" x="0" y="1363" width="432" height="449" frameX="0" frameY="-14" frameWidth="432" frameHeight="463"/>
+</TextureAtlas>

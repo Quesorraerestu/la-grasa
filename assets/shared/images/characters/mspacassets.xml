@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mspacassets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ms down0000" x="0" y="0" width="429" height="502" frameX="-5" frameY="-10" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0001" x="0" y="0" width="429" height="502" frameX="-5" frameY="-10" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0002" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0003" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0004" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0005" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0006" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0007" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0008" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0009" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0010" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0011" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0012" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms down0013" x="429" y="0" width="431" height="503" frameX="0" frameY="0" frameWidth="434" frameHeight="512"/>
+	<SubTexture name="ms left0000" x="860" y="0" width="550" height="516" frameX="0" frameY="-2" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0001" x="860" y="0" width="550" height="516" frameX="0" frameY="-2" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0002" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0003" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0004" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0005" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0006" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0007" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0008" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0009" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0010" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0011" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0012" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms left0013" x="1410" y="0" width="531" height="515" frameX="-13" frameY="0" frameWidth="550" frameHeight="518"/>
+	<SubTexture name="ms pac idle0000" x="1941" y="0" width="473" height="530" frameX="-21" frameY="0" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0001" x="2414" y="0" width="470" height="521" frameX="-24" frameY="-9" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0002" x="2884" y="0" width="490" height="514" frameX="-7" frameY="-20" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0003" x="2884" y="0" width="490" height="514" frameX="-7" frameY="-20" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0004" x="3374" y="0" width="489" height="524" frameX="-12" frameY="-7" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0005" x="3374" y="0" width="489" height="524" frameX="-12" frameY="-7" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0006" x="0" y="530" width="489" height="529" frameX="-12" frameY="-3" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0007" x="0" y="530" width="489" height="529" frameX="-12" frameY="-3" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0008" x="0" y="530" width="489" height="529" frameX="-12" frameY="-3" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0009" x="489" y="530" width="488" height="529" frameX="-13" frameY="-3" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0010" x="977" y="530" width="486" height="520" frameX="-17" frameY="-7" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0011" x="1463" y="530" width="481" height="531" frameX="-19" frameY="-6" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0012" x="1944" y="530" width="497" height="521" frameX="0" frameY="-18" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0013" x="1944" y="530" width="497" height="521" frameX="0" frameY="-18" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0014" x="2441" y="530" width="495" height="526" frameX="-3" frameY="-3" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0015" x="2441" y="530" width="495" height="526" frameX="-3" frameY="-3" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0016" x="2936" y="530" width="493" height="528" frameX="-5" frameY="0" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0017" x="2936" y="530" width="493" height="528" frameX="-5" frameY="0" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0018" x="2936" y="530" width="493" height="528" frameX="-5" frameY="0" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac idle0019" x="2936" y="530" width="493" height="528" frameX="-5" frameY="0" frameWidth="503" frameHeight="539"/>
+	<SubTexture name="ms pac right0000" x="3429" y="530" width="417" height="500" frameX="-11" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0001" x="3429" y="530" width="417" height="500" frameX="-11" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0002" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0003" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0004" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0005" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0006" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0007" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0008" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0009" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0010" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0011" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0012" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms pac right0013" x="0" y="1061" width="415" height="500" frameX="0" frameY="0" frameWidth="428" frameHeight="500"/>
+	<SubTexture name="ms up0000" x="415" y="1061" width="457" height="512" frameX="0" frameY="0" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0001" x="415" y="1061" width="457" height="512" frameX="0" frameY="0" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0002" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0003" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0004" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0005" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0006" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0007" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0008" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0009" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0010" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0011" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0012" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+	<SubTexture name="ms up0013" x="872" y="1061" width="459" height="501" frameX="-3" frameY="-11" frameWidth="462" frameHeight="512"/>
+</TextureAtlas>
