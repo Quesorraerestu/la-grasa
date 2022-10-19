@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghosts1.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fantasmas 10000" x="0" y="0" width="664" height="341" frameX="0" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10001" x="0" y="0" width="664" height="341" frameX="0" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10002" x="664" y="0" width="663" height="346" frameX="-3" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10003" x="1327" y="0" width="663" height="346" frameX="-3" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10004" x="1327" y="0" width="663" height="346" frameX="-3" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10005" x="664" y="0" width="663" height="346" frameX="-3" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10006" x="1990" y="0" width="655" height="341" frameX="-1" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10007" x="1990" y="0" width="655" height="341" frameX="-1" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10008" x="2645" y="0" width="655" height="346" frameX="-10" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10009" x="3300" y="0" width="655" height="346" frameX="-10" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10010" x="0" y="346" width="662" height="346" frameX="-9" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10011" x="662" y="346" width="662" height="346" frameX="-9" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10012" x="1324" y="346" width="643" height="341" frameX="-40" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10013" x="1324" y="346" width="643" height="341" frameX="-40" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10014" x="1967" y="346" width="640" height="346" frameX="-40" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10015" x="2607" y="346" width="640" height="346" frameX="-40" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10016" x="2607" y="346" width="640" height="346" frameX="-40" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10017" x="1967" y="346" width="640" height="346" frameX="-40" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10018" x="3247" y="346" width="640" height="341" frameX="-40" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10019" x="3247" y="346" width="640" height="341" frameX="-40" frameY="-5" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10020" x="0" y="692" width="639" height="346" frameX="-36" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10021" x="639" y="692" width="639" height="346" frameX="-36" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10022" x="1278" y="692" width="643" height="346" frameX="-31" frameY="0" frameWidth="683" frameHeight="346"/>
+	<SubTexture name="fantasmas 10023" x="1921" y="692" width="643" height="346" frameX="-31" frameY="0" frameWidth="683" frameHeight="346"/>
+</TextureAtlas>
